@@ -24,3 +24,8 @@ The React component model gives us more control over form and function of each c
 Each component is implemented with accessibility in mind. The result is a set of accessible-by-default components, over what is possible from plain Bootstrap.
 
 Form react-bootstrap
+
+Q1 : the render
+Q2 : constructor
+Q3 : - constructor > render > React Updates > componentDidMount > componentWillUnmount
+Q4 : Here we use componentDidMount() to connect to the YouTube API and get videos when the components is rendered.

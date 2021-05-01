@@ -11,7 +11,7 @@
 
    |N     |content                                                                                    |Description              |
    |:----:|:-----------------------------------------------------------------------------------------:|:-------------------------------:|
-   |1     |[test](https://ameenbassamsaleh.github.io/reading-notes-repo/)                     |                          |
+   |1     |[Reading 01 301](https://github.com/AmeenBassamSaleh/ReadingNotes301/blob/main/Read01.md)                     |ntroduction to React and Components                      |
 
 
 
